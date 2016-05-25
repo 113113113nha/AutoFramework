@@ -1,0 +1,1 @@
+DEBUG , 2016-05-25 17:58:33 , TestLog4J , Test config log for test
